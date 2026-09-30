@@ -2,15 +2,15 @@
 
 <details open><summary>português</summary>
 
-estudante de ciência da computação na universidade federal fluminense (uff). busco estágio em engenharia de software.
+estudante de ciência da computação na universidade federal fluminense (uff). 
+busco estágio em engenharia de software.
 
 ### foco atual
 
-- programação estruturada em c e introdução à programação em python, na graduação.
-- jogos 2d em python com a biblioteca pplay.
-- resolução de problemas no beecrowd.
-
-os trabalhos de disciplina ficam privados até a autorização de cada docente.
+- linguagens: python e c.
+- aprofundamento em desenvolvimento de jogos e nos fundamentos matemáticos da computação.
+- estudo de mercado financeiro e investimentos.
+- prática contínua de algoritmos no beecrowd.
 
 ### contato
 
@@ -20,15 +20,15 @@ os trabalhos de disciplina ficam privados até a autorização de cada docente.
 
 <details><summary>english</summary>
 
-computer science student at universidade federal fluminense (uff). seeking a software engineering internship.
+computer science student at universidade federal fluminense (uff). 
+seeking a software engineering internship.
 
 ### current focus
 
-- structured programming in c and introductory programming in python, in my degree.
-- 2d games in python with the pplay library.
-- problem solving on beecrowd.
-
-coursework repositories stay private until each instructor authorizes publication.
+- languages: python and c.
+- deepening my knowledge of game development and the mathematical foundations of computing.
+- studying financial markets and investing.
+- continuous algorithmic practice on beecrowd.
 
 ### contact
 
